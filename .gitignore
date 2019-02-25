@@ -4,6 +4,7 @@ target/
 .project
 .classpath
 .settings/**/*.*
+.vscode/**/*.*
 opentracing-kafka-client/.settings/**/*.*
 opentracing-kafka-spring/.settings/**/*.*
 opentracing-kafka-streams/.settings/**/*.*
